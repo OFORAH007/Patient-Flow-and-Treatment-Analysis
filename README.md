@@ -7,7 +7,8 @@ This repository provides an analytical breakdown of a national hospital admissio
 
 ---
 
-<img width="2048" height="899" alt="Gemini_Generated_Image_35wpfh35wpfh35wp" src="https://github.com/user-attachments/assets/70b58ac7-bccb-4f8c-9765-d582364510d5" />
+
+<img width="2048" height="899" alt="Hospital Picture" src="https://github.com/user-attachments/assets/5167de4f-e576-4a56-89e2-2bea04b44a95" />
 
 
 ## 📌 Objectives
@@ -100,6 +101,7 @@ ADDCOLUMNS(
     "Weekending", [Date] + (7 - WEEKDAY([Date]))
 )
 ```
+
 <img width="1591" height="916" alt="Screenshot 2025-08-02 013331" src="https://github.com/user-attachments/assets/30e79e2b-f9c6-49a8-91dc-21af186aa67c" />
 <img width="1593" height="915" alt="Screenshot 2025-08-02 013420" src="https://github.com/user-attachments/assets/75048d1b-0a2d-4bbd-867e-a02df4640a84" />
 <img width="1596" height="915" alt="Screenshot 2025-08-02 014339" src="https://github.com/user-attachments/assets/6e9372c8-e18c-4632-86c3-006b2b0d5a2f" />
@@ -146,7 +148,8 @@ Each medical condition exhibits a unique treatment pattern, suggesting standardi
 
 ---
 
-<img width="2048" height="510" alt="Gemini_Generated_Image_1amiy71amiy71ami" src="https://github.com/user-attachments/assets/a2fce875-d379-46b5-86bf-6171844abd23" />
+<img width="2048" height="510" alt="Recommendation" src="https://github.com/user-attachments/assets/c4d33749-fe4b-443c-8bb4-16a48e0c8a5a" />
+
 
 
 ## 📍 Suggested Use Cases
